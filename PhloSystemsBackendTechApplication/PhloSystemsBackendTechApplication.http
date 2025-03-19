@@ -1,0 +1,6 @@
+@PhloSystemsBackendTechApplication = http://localhost:5223
+
+GET {{PhloSystemsBackendTechApplication}}/weatherforecast/
+Accept: application/json
+
+###
